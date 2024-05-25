@@ -116,3 +116,12 @@ The dataset used provides a comprehensive overview of consumer lending, includin
 ## Conclusion:
 
 This project provides a deep dive into consumer loan data, revealing significant insights and patterns that can drive better loan portfolio management. The findings suggest strategic shifts towards lending for small businesses and caution in high-risk categories such as debt consolidation and low-income borrowers. By using Excel’s powerful analytical tools, financial institutions can better predict defaults and enhance decision-making processes to optimize performance and mitigate risks in consumer lending.
+
+
+## Author
+
+***Sahil Kishor***
+
+***Email : kishorsahil555@gmail.com***
+
+***LinkedIn : www.linkedin.com/in/sahil-kishor***
