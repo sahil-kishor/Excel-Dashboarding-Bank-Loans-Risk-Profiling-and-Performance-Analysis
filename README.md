@@ -93,6 +93,8 @@ The dataset used provides a comprehensive overview of consumer lending, includin
 ![Excel Loan Distribution Dashboard](https://github.com/sahil-kishor/Excel-Dashboarding-Bank-Loans-Risk-Profiling-and-Performance-Analysis/assets/159517524/ebd0853b-bbf8-426a-b28d-680124711ff5)
 
 ## 2. Trend Analysis Dashboard
+![WhatsApp Image 2024-05-27 at 2 48 45 PM](https://github.com/sahil-kishor/Excel-Dashboarding-Bank-Loans-Risk-Profiling-and-Performance-Analysis/assets/159517524/eb9c30d0-168f-4662-9ead-033c9fe27ed9)
+
 
 
 ## 3. Risk Analysis Dashboard
