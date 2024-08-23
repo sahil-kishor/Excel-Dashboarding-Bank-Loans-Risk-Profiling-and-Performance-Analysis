@@ -89,7 +89,7 @@ The dataset used provides a comprehensive overview of consumer lending, includin
 
 # Dashboards Crafted:
 
-## 1. Loan Distribuution Dashboard
+## 1. Loan Distribution Dashboard
 ![Excel Loan Distribution Dashboard](https://github.com/sahil-kishor/Excel-Dashboarding-Bank-Loans-Risk-Profiling-and-Performance-Analysis/assets/159517524/ebd0853b-bbf8-426a-b28d-680124711ff5)
 
 ## 2. Trend Analysis Dashboard
