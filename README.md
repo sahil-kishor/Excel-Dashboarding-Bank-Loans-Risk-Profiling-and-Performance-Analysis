@@ -1,5 +1,7 @@
 # Banking Dynamic Risk Profiling and Performance Analysis in Consumer Lending
 
+***Excel Project File link (G-Drive):*** https://docs.google.com/spreadsheets/d/1T6_feAmVwFX-vLFl_kUB1FazTVDwAuga/edit?usp=sharing&ouid=109250966055236566315&rtpof=true&sd=true
+
 ## Project Objective:
 
 The aim of this project is to leverage advanced data analysis techniques within Excel to gain a thorough understanding and improve the management of a consumer loan portfolio. This entails evaluating loan risk profiles, analyzing financial performance metrics, uncovering borrower behavior patterns, and ultimately developing a dynamic, interactive Excel dashboard. The goal is to offer strategic recommendations that optimize loan portfolio management, mitigate risks, and enhance decision-making processes for financial institutions and stakeholders in the consumer lending industry.
@@ -122,6 +124,9 @@ The dataset used provides a comprehensive overview of consumer lending, includin
 
 This project provides a deep dive into consumer loan data, revealing significant insights and patterns that can drive better loan portfolio management. The findings suggest strategic shifts towards lending for small businesses and caution in high-risk categories such as debt consolidation and low-income borrowers. By using Excel’s powerful analytical tools, financial institutions can better predict defaults and enhance decision-making processes to optimize performance and mitigate risks in consumer lending.
 
+## Project Link
+
+***Excel Project File link (G-Drive):*** https://docs.google.com/spreadsheets/d/1T6_feAmVwFX-vLFl_kUB1FazTVDwAuga/edit?usp=sharing&ouid=109250966055236566315&rtpof=true&sd=true
 
 ## Author
 
